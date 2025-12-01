@@ -42,18 +42,5 @@ Proje 3 ana aşamadan oluşur:
     * **Tarih Arama:** API'den gelen `yyyy-MM-dd` formatındaki tarih, `DateTime` nesnesine çevrilir ve kullanıcının girdiği `dd-MM` formatıyla karşılaştırılır.
     * **İsim Arama:** Kullanıcının girdiği metin, tatillerin hem yerel (`localName`) hem de uluslararası (`name`) adlarında `Contains` metodu ile aranır.
 
-## 📥 Kurulum ve Çalıştırma
-
-1.  Bu projeyi klonlayın:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADIN/PROJE_ISMIN.git](https://github.com/KULLANICI_ADIN/PROJE_ISMIN.git)
-    ```
-2.  Projeyi Visual Studio veya VS Code ile açın.
-3.  İnternet bağlantınızın olduğundan emin olun (API erişimi için gereklidir).
-4.  `F5` tuşuna basarak veya terminalden `dotnet run` komutu ile çalıştırın.
-
-## 📸 Ekran Görüntüsü
-*(Buraya programın çalışırken çekilmiş bir ekran görüntüsünü ekleyebilirsiniz)*
-
 ---
 **Geliştirici:** Ozan Baran Karakurt  
